@@ -6,7 +6,7 @@
         android:icon="@drawable/ic_home_black_24dp"/>
 
     <item
-        android:id="@+id/nav_facorite"
+        android:id="@+id/nav_favorite"
         android:title="@string/favorite"
         android:icon="@drawable/ic_favorite_black_24dp"/>
 
