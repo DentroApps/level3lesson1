@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Level Three Lesson One</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="favorite">Favorite</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
 </resources>
